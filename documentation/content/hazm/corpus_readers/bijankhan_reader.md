@@ -1,1 +1,0 @@
-::: hazm.corpus_readers.bijankhan_reader

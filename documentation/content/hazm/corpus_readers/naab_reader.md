@@ -1,1 +1,0 @@
-::: hazm.corpus_readers.naab_reader

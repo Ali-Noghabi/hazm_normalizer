@@ -1,1 +1,0 @@
-::: hazm.corpus_readers.pn_summary_reader

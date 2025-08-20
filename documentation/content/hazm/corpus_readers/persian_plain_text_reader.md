@@ -1,1 +1,0 @@
-::: hazm.corpus_readers.persian_plain_text_reader
