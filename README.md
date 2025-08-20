@@ -14,13 +14,21 @@ This project is a lightweight fork of the Hazm library, focusing solely on the *
 To install this package, clone the repository and install the required dependencies using:
 
 ```bash
+python -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
+or just use the pip-installable package
+```bash
+python -m venv env
+source env/bin/activate
+pip install pip_installable_package/hazm_normalizer-0.1.0-py3-none-any.whl
+```
 ### Example Usage:
 
 ```python
-from normalizer import Normalizer
+from hazm_normalizer import Normalizer
 
 # Initialize the Normalizer class
 normalizer = Normalizer()
